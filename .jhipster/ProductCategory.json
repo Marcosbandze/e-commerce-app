@@ -21,7 +21,7 @@
             "relationshipName": "product"
         }
     ],
-    "changelogDate": "20191121104800",
+    "changelogDate": "20191121110635",
     "entityTableName": "product_category",
     "dto": "no",
     "pagination": "no",

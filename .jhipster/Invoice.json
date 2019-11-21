@@ -58,7 +58,7 @@
             "otherEntityField": "id"
         }
     ],
-    "changelogDate": "20191121104804",
+    "changelogDate": "20191121110639",
     "entityTableName": "invoice",
     "dto": "no",
     "pagination": "pagination",

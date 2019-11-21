@@ -81,7 +81,7 @@
             "relationshipName": "order"
         }
     ],
-    "changelogDate": "20191121104801",
+    "changelogDate": "20191121110636",
     "entityTableName": "customer",
     "dto": "no",
     "pagination": "pagination",
